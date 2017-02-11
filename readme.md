@@ -93,3 +93,6 @@ I tried to refrain from using 3rd party libraries in this project. For example I
 However a part of the description of this project was to show why I love iOS Development, and one of the reasons is the number and quality of open source free 3rd party libraries offered. 
 
 Therefore I decided to use the `BEMSimpleLineGraph` library to draw the graph. It's an amazingly simple protocol based library with vast customization options that perfectly fit the requirements for this project. Depending on those requirements, I probably normally would've made my own class. But right now the library does what I need it to, and then some. 
+
+###Forked version
+Initially to take the idea of predictive searching on stock tickers/company names and integrate this into my own app. To date, I have not seen anyone else have a project readily available that takes an API input and subsequently store the fundamental, base data of company/ticker for use in a UITableView for further usage in other ways.
